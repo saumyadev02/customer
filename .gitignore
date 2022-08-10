@@ -1,0 +1,35 @@
+# logs
+logs
+*.logs
+*.log
+error.log
+
+# editors
+/.vscode/
+
+# tmp folder
+/.tmp/
+/.cache/
+
+# directories
+node_module/
+
+# npm cache
+.npm
+
+# env cache
+.env
+
+# REPL history
+.node_repl_history
+
+# API test
+apiTest
+node_modules
+
+# API test
+apiTest.http
+
+# Index
+/src/index.js
+index.js
